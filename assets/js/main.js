@@ -13,9 +13,12 @@
   onScroll();
 
   // Mobile menu
+  function t(key, fallback) {
+    return window.i18n ? window.i18n.t(key, fallback) : fallback;
+  }
   function setMenu(open) {
     toggle.setAttribute("aria-expanded", String(open));
-    toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+    toggle.setAttribute("aria-label", open ? t("menu.close", "Close menu") : t("menu.open", "Open menu"));
     links.classList.toggle("is-open", open);
     nav.classList.toggle("menu-open", open);
   }
@@ -29,6 +32,10 @@
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") setMenu(false);
     });
+    document.addEventListener("langchange", function () {
+      setMenu(toggle.getAttribute("aria-expanded") === "true");
+    });
+    setMenu(false);
   }
 
   // Reveal on scroll
