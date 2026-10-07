@@ -4,11 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>
-    // Pick the language before first paint (?lang= → saved choice → browser language)
+    // Pick the language before first paint (?lang= → saved choice → English)
     (function () {
       var langs = ["en", "ko", "ja"], l;
       try { l = new URLSearchParams(location.search).get("lang") || localStorage.getItem("lang"); } catch (e) {}
-      if (langs.indexOf(l) < 0) { l = (navigator.language || "en").slice(0, 2).toLowerCase(); }
       if (langs.indexOf(l) < 0) { l = "en"; }
       var root = document.documentElement;
       root.lang = l;
