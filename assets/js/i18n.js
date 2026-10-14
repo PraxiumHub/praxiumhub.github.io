@@ -10,7 +10,7 @@
   var DICT = {
     ko: {
       "meta.title": "Praxium Hub — 관찰을 위해 빚어낸 살아있는 세계",
-      "meta.desc": "Praxium Hub는 생명 관찰 시뮬레이션을 만드는 스튜디오입니다. 살아있는 생물을 바라보고, 돌보고, 배울 수 있는 차분한 앱을 만듭니다. 첫 작품은 Crystal Shrimp Tank입니다.",
+      "meta.desc": "Praxium Hub는 생명 관찰 시뮬레이션을 만드는 스튜디오입니다. 살아있는 생물을 바라보고, 돌보고, 배울 수 있는 차분한 앱을 만듭니다. 첫 작품은 CS Tank: Crystal Shrimp입니다.",
       "skip": "본문으로 건너뛰기",
       "menu.open": "메뉴 열기",
       "menu.close": "메뉴 닫기",
@@ -24,7 +24,7 @@
       "hero.eyebrow": "생명 관찰 시뮬레이션",
       "hero.title": "관찰을 위해 빚어낸<br><em>살아있는 세계.</em>",
       "hero.lede": "Praxium Hub는 살아있는 생물과 그들이 사는 생태계를 바라보고, 돌보고, 배울 수 있는 차분하고 정성스러운 애플리케이션을 만듭니다.",
-      "hero.cta": "Crystal Shrimp Tank 보기",
+      "hero.cta": "CS Tank: Crystal Shrimp 보기",
       "hero.story": "우리의 이야기",
 
       "about.eyebrow": "이름의 의미",
@@ -48,7 +48,7 @@
       "product.eyebrow": "첫 번째 작품",
       "product.status": "Google Play 출시 예정",
       "product.lede": "크리스탈 레드와 크리스탈 블랙 새우를 키우는 고요한 3D 수조입니다. 물을 건강하게 관리하고, 수조를 꾸미고, 세대가 이어지는 모습을 지켜보세요. 새우 한 마리 한 마리가 지닌 유전자가 무늬와 등급, 그리고 언젠가 태어날 새끼의 모습을 결정합니다.",
-      "product.shotAlt": "Crystal Shrimp Tank의 수초 수조. 크리스탈 새우들이 유목을 오르고, 석등과 수초, 넓적한 돌 주변의 어두운 바닥재에서 먹이를 찾고 있습니다.",
+      "product.shotAlt": "CS Tank: Crystal Shrimp의 수초 수조. 크리스탈 새우들이 유목을 오르고, 석등과 수초, 넓적한 돌 주변의 어두운 바닥재에서 먹이를 찾고 있습니다.",
 
       "f1.t": "유전과 등급",
       "f1.d": "유전자 기반의 유전이 모든 무늬를 결정합니다. C등급부터 SSS등급까지 개량하고, 숨겨진 희귀 변이를 찾아보세요.",
@@ -73,7 +73,7 @@
 
       "journey.eyebrow": "앞으로의 여정",
       "journey.title": "수조 하나는 시작일 뿐입니다.",
-      "journey.lede": "Crystal Shrimp Tank는 더 큰 여정의 출발점입니다. 저마다의 행동과 성장, 리듬을 지닌 다양한 생명으로 이 여정을 넓혀 갈 것입니다.",
+      "journey.lede": "CS Tank: Crystal Shrimp는 더 큰 여정의 출발점입니다. 저마다의 행동과 성장, 리듬을 지닌 다양한 생명으로 이 여정을 넓혀 갈 것입니다.",
       "journey.t1.tag": "지금",
       "journey.t1.d": "민물새우와 그 유전, 그리고 새우가 기대어 사는 작은 생태계.",
       "journey.t2.tag": "다음",
@@ -89,7 +89,7 @@
       "footer.privacy": "개인정보처리방침",
 
       "privacy.title": "개인정보처리방침 — Praxium Hub",
-      "privacy.desc": "Praxium Hub 및 Crystal Shrimp Tank의 개인정보처리방침입니다.",
+      "privacy.desc": "Praxium Hub 및 CS Tank: Crystal Shrimp의 개인정보처리방침입니다.",
 
       "nf.title": "페이지를 찾을 수 없습니다 — Praxium Hub",
       "nf.heading": "수조의 이 자리는 비어 있어요.",
@@ -99,7 +99,7 @@
 
     ja: {
       "meta.title": "Praxium Hub — 観察するために生まれた、生きている世界",
-      "meta.desc": "Praxium Hubは、生き物を観察するシミュレーションをつくるスタジオです。生き物を眺め、世話をし、学ぶための穏やかなアプリを届けます。第一作は Crystal Shrimp Tank です。",
+      "meta.desc": "Praxium Hubは、生き物を観察するシミュレーションをつくるスタジオです。生き物を眺め、世話をし、学ぶための穏やかなアプリを届けます。第一作は CS Tank: Crystal Shrimp です。",
       "skip": "本文へスキップ",
       "menu.open": "メニューを開く",
       "menu.close": "メニューを閉じる",
@@ -113,7 +113,7 @@
       "hero.eyebrow": "生命観察シミュレーション",
       "hero.title": "観察するために生まれた、<br><em>生きている世界。</em>",
       "hero.lede": "Praxium Hubは、生き物とその暮らす生態系を眺め、世話をし、学ぶことができる、穏やかで丁寧につくられたアプリケーションを開発しています。",
-      "hero.cta": "Crystal Shrimp Tank を見る",
+      "hero.cta": "CS Tank: Crystal Shrimp を見る",
       "hero.story": "私たちの物語",
 
       "about.eyebrow": "名前の由来",
@@ -137,7 +137,7 @@
       "product.eyebrow": "第一作",
       "product.status": "Google Play にて近日公開",
       "product.lede": "クリスタルレッドとクリスタルブラックのシュリンプを育てる、静かな3D水槽です。水質を健やかに保ち、水槽をレイアウトし、世代が受け継がれていく様子を見守りましょう。一匹一匹がもつ遺伝子が、模様やグレード、そしていつか生まれる子どもの姿を決めていきます。",
-      "product.shotAlt": "Crystal Shrimp Tank の水草水槽。クリスタルシュリンプが流木を登り、石灯籠や水草、平たい石のまわりの黒いソイルでエサを探している。",
+      "product.shotAlt": "CS Tank: Crystal Shrimp の水草水槽。クリスタルシュリンプが流木を登り、石灯籠や水草、平たい石のまわりの黒いソイルでエサを探している。",
 
       "f1.t": "遺伝とグレード",
       "f1.d": "遺伝子にもとづく遺伝が、すべての模様を決めます。グレードCからSSSまで改良し、隠れたレア個体を探しましょう。",
@@ -162,7 +162,7 @@
 
       "journey.eyebrow": "これからの旅",
       "journey.title": "ひとつの水槽は、はじまりにすぎません。",
-      "journey.lede": "Crystal Shrimp Tankは、より大きな旅の出発点です。それぞれの行動・成長・リズムをもつ、さまざまな生き物へとこの旅を広げていきます。",
+      "journey.lede": "CS Tank: Crystal Shrimpは、より大きな旅の出発点です。それぞれの行動・成長・リズムをもつ、さまざまな生き物へとこの旅を広げていきます。",
       "journey.t1.tag": "現在",
       "journey.t1.d": "淡水シュリンプとその遺伝、そしてシュリンプが暮らす小さな生態系。",
       "journey.t2.tag": "次に",
@@ -178,7 +178,7 @@
       "footer.privacy": "プライバシーポリシー",
 
       "privacy.title": "プライバシーポリシー — Praxium Hub",
-      "privacy.desc": "Praxium Hub および Crystal Shrimp Tank のプライバシーポリシーです。",
+      "privacy.desc": "Praxium Hub および CS Tank: Crystal Shrimp のプライバシーポリシーです。",
 
       "nf.title": "ページが見つかりません — Praxium Hub",
       "nf.heading": "水槽のこの場所は、からっぽです。",
