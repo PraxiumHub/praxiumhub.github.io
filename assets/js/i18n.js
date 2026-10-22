@@ -87,6 +87,10 @@
       "contact.text": "질문, 의견, 협업 제안 등 무엇이든 환영합니다.",
 
       "footer.privacy": "개인정보처리방침",
+      "footer.odds": "확률 정보",
+      "odds.link": "상점 등급 확률 보기 →",
+      "odds.title": "등급 확률 — CS Tank: Crystal Shrimp",
+      "odds.desc": "CS Tank: Crystal Shrimp 상점에서 판매하는 새우의 등급별 확률입니다.",
 
       "privacy.title": "개인정보처리방침 — Praxium Hub",
       "privacy.desc": "Praxium Hub 및 CS Tank: Crystal Shrimp의 개인정보처리방침입니다.",
@@ -176,6 +180,10 @@
       "contact.text": "ご質問、ご意見、協業のご提案など、何でもお寄せください。",
 
       "footer.privacy": "プライバシーポリシー",
+      "footer.odds": "確率表示",
+      "odds.link": "ショップのグレード確率を見る →",
+      "odds.title": "グレード確率 — CS Tank: Crystal Shrimp",
+      "odds.desc": "CS Tank: Crystal Shrimp のショップで販売するシュリンプのグレード別確率です。",
 
       "privacy.title": "プライバシーポリシー — Praxium Hub",
       "privacy.desc": "Praxium Hub および CS Tank: Crystal Shrimp のプライバシーポリシーです。",
