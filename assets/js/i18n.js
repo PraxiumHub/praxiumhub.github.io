@@ -46,7 +46,8 @@
       "approach.p3.d": "실제 생태계가 움직이는 원리를 바탕으로, 호기심이 이해로 이어지도록 합니다. 직접 해 보며 얻는 지식입니다.",
 
       "product.eyebrow": "첫 번째 작품",
-      "product.status": "Google Play 출시 예정",
+      "product.status": "Google Play에서 만나보세요",
+      "play.get": "Google Play에서 받기",
       "product.lede": "크리스탈 레드와 크리스탈 블랙 새우를 키우는 고요한 3D 수조입니다. 물을 건강하게 관리하고, 수조를 꾸미고, 세대가 이어지는 모습을 지켜보세요. 새우 한 마리 한 마리가 지닌 유전자가 무늬와 등급, 그리고 언젠가 태어날 새끼의 모습을 결정합니다.",
       "product.shotAlt": "CS Tank: Crystal Shrimp의 수초 수조. 크리스탈 새우들이 유목을 오르고, 석등과 수초, 넓적한 돌 주변의 어두운 바닥재에서 먹이를 찾고 있습니다.",
 
@@ -66,7 +67,7 @@
       "meta.platform": "플랫폼",
       "meta.languages": "지원 언어",
       "meta.status": "상태",
-      "meta.statusValue": "출시 막바지 준비 중",
+      "meta.statusValue": "출시됨",
 
       "detail.alt": "넓적한 돌과 수초, 신전 장식 사이의 어두운 바닥재에서 먹이를 찾는 크리스탈 레드 새우들의 근접 화면",
       "detail.caption": "제 속도로 먹이를 찾는 크리스탈 레드 새우들.",
@@ -139,7 +140,8 @@
       "approach.p3.d": "実際の生態系の仕組みにもとづき、好奇心を理解へとつなげます。実践を通じて身につく知識です。",
 
       "product.eyebrow": "第一作",
-      "product.status": "Google Play にて近日公開",
+      "product.status": "Google Play で配信中",
+      "play.get": "Google Play で手に入れよう",
       "product.lede": "クリスタルレッドとクリスタルブラックのシュリンプを育てる、静かな3D水槽です。水質を健やかに保ち、水槽をレイアウトし、世代が受け継がれていく様子を見守りましょう。一匹一匹がもつ遺伝子が、模様やグレード、そしていつか生まれる子どもの姿を決めていきます。",
       "product.shotAlt": "CS Tank: Crystal Shrimp の水草水槽。クリスタルシュリンプが流木を登り、石灯籠や水草、平たい石のまわりの黒いソイルでエサを探している。",
 
@@ -159,7 +161,7 @@
       "meta.platform": "プラットフォーム",
       "meta.languages": "対応言語",
       "meta.status": "ステータス",
-      "meta.statusValue": "リリースに向けて最終準備中",
+      "meta.statusValue": "配信中",
 
       "detail.alt": "平たい石と水草、神殿の飾りのあいだの黒いソイルでエサを探すクリスタルレッドのクローズアップ",
       "detail.caption": "マイペースにエサを探す、クリスタルレッドたち。",
