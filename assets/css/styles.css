@@ -356,3 +356,6 @@ html:is(:lang(ko), :lang(ja)) .eyebrow { letter-spacing: .08em; }
   .js .reveal { opacity: 1; transform: none; }
   .bubbles { display: none; }
 }
+
+/* Store listing name under the product title */
+.product__store { margin: -4px 0 12px; font-size: 14px; color: var(--muted); letter-spacing: .01em; }
