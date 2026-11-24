@@ -75,7 +75,6 @@
       "meta.languages": "지원 언어",
       "meta.status": "상태",
       "meta.statusValue": "출시됨",
-      "meta.iosSoon": "iOS (App Store) — 출시 예정",
 
       "detail.alt": "이끼 옆 어두운 바닥재에서 먹이를 찾는 크리스탈 레드와 크리스탈 블랙 새우들의 근접 화면",
       "detail.caption": "제 속도로 먹이를 찾는 크리스탈 레드와 크리스탈 블랙 새우들.",
@@ -177,7 +176,6 @@
       "meta.languages": "対応言語",
       "meta.status": "ステータス",
       "meta.statusValue": "配信中",
-      "meta.iosSoon": "iOS (App Store) — 近日配信予定",
 
       "detail.alt": "モスのそばの黒いソイルでエサを探す、クリスタルレッドとクリスタルブラックのクローズアップ",
       "detail.caption": "マイペースにエサを探す、クリスタルレッドとクリスタルブラックたち。",
